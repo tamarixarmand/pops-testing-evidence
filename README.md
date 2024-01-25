@@ -1,2 +1,2 @@
 # pops-testing-evidence
-Evidence to demonstrate learning outcomes for Software Testing.
+Please find screenshots in this repository demonstrating CI/CD workflow runs and other learning objectives for my Software Testing Portfolio.
